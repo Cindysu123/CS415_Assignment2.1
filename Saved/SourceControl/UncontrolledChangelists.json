@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/UI/WB_Health.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/NewLevel.umap",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/UI/WP_GameOver.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/Master_Pickup_BP2.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/Master_Pickup_BP2_Child.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/UI/WB_Score.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/Hour_of_Code/Blueprints/BP_coin.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/EAIState.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/BP_EnemyAI.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/AIState.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/NewMap.umap",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/PowerUp_Pickup_BP_Child2.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/BP_Enemy.uasset",
+				"C:/Users/cindysu2/Downloads/UnrealLearningKit/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/BP_AI.uasset"
+			]
+		}
+	]
+}
